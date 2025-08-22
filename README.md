@@ -16,5 +16,6 @@ This *Text is italizised*
 
 ![This is a water bear](https://myoctocat.com/assets/images/base-octocat.svg)
 
+### Journal Entries 
 
-
+Visit my [journal 01](journal/8_26_2025_entry.md)
