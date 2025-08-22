@@ -14,7 +14,7 @@ This *Text is italizised*
 
 ### This is an image
 
-![This is a water bear](link)
+![This is a water bear](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
